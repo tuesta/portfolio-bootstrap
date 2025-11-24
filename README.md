@@ -107,8 +107,9 @@ Este ejercicio implementa la integración avanzada de elementos multimedia (audi
 ```
 portfolio/
 ├── index.html
-├── styles.css
-├── main.js
+├── foto.png
+├── cv.pdf
+├── README.md
 ├── css/
 │   └── styles.css
 ├── js/
