@@ -3,7 +3,7 @@
 
 **Alumno:** Victor Tuesta Ascoy
 **Curso:** Diseño de Interfaces Web
-**Fecha de entrega:** [Fecha actual]
+**Fecha de entrega:** 24-11-2025
 
 ---
 
